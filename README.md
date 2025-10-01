@@ -1,4 +1,4 @@
-# Pydantic Hindi - Complete Learning Guide
+# Pydantic - Complete Learning Guide
 
 ## 📚 Project Overview
 Comprehensive Pydantic learning project with hands-on examples and assignments.
